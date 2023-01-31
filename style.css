@@ -7,9 +7,35 @@
 body {
   background-color: #023459;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 20px;
+  padding: 30px;
 }
 
 h1,
+h2,
 h3 {
   color: #344648;
+}
+
+.pic {
+  height: 250px;
+  width: 220px;
+  margin: 50px;
+}
+
+.about {
+  position: relative;
+  left: 400px;
+  top: 100px;
+}
+.about-text {
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+}
+
+.resume {
+  position: relative;
+  left: 400px;
+  bottom: 100px;
 }
