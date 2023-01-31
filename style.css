@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #023459;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #1e646e;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.icon-zwei {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.icon-drei {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.message {
+  width: 200px;
+  height: 200px;
+}
+
+.mail {
+  color: black;
+  text-decoration: none;
+}
+
+.call {
+  color: black;
+  text-decoration: none;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.eins {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.zwei {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.drei {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.vier {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.fünf {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.sechs {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+.sieben {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.acht {
+  width: 100px;
+  height: 100px;
+  background-color: #7bc5ae;
+  margin: 10px;
+}
+
+.boxes-eins {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.box-drei {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.parent {
+  border-radius: 200px;
+  width: 280px;
+  height: 280px;
+  position: relative;
+  left: 160px;
+  top: 50px;
+  margin: 10px;
+}
+
+.move {
+  position: relative;
+  left: 500px;
+  border: 5px solid #1e646e;
+  width: 500px;
+  height: 500px;
+}
+
+.about {
+  position: relative;
+  left: 550px;
+  bottom: 150px;
+  color: #b2a59f;
+}
+
+.überschrift {
+  position: relative;
+  left: 600px;
+  top: 100px;
+}
+
+.gruss {
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+
+.projekt {
+}
